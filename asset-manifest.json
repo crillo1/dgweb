@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.565fc621.css",
+    "main.js": "/static/js/main.849c5af3.js",
+    "static/media/bighead-2.png": "/static/media/bighead-2.810b19f8560c5c1cbf2f.png",
+    "static/media/bighead-4.png": "/static/media/bighead-4.996082572d94f071e7ff.png",
+    "static/media/bighead-9.png": "/static/media/bighead-9.0ad057ab01fabc28aa53.png",
+    "static/media/bighead.png": "/static/media/bighead.ee31db30a2cfe159426d.png",
+    "static/media/bighead-8.png": "/static/media/bighead-8.581db8731915a10589da.png",
+    "static/media/bighead-3.png": "/static/media/bighead-3.cf3ccc9277535a7d3b61.png",
+    "static/media/bighead-6.png": "/static/media/bighead-6.c2cdabd181c09c66f0b2.png",
+    "static/media/bighead-5.png": "/static/media/bighead-5.fad357ac83720ade7b43.png",
+    "static/media/bighead-1.png": "/static/media/bighead-1.13cd9bb18b91084bd052.png",
+    "static/media/akaya-telivigala-all-400-normal.woff": "/static/media/akaya-telivigala-all-400-normal.78fd8cb2a221beeb77ce.woff",
+    "static/media/bighead-7.png": "/static/media/bighead-7.59eefdaee327a994f2a2.png",
+    "static/media/Home Video.mp4": "/static/media/Home Video.f25fa50bc1e127f1692c.mp4",
+    "static/media/akaya-telivigala-telugu-400-normal.woff2": "/static/media/akaya-telivigala-telugu-400-normal.cc24af700d82d6ced8f6.woff2",
+    "static/media/akaya-telivigala-latin-400-normal.woff2": "/static/media/akaya-telivigala-latin-400-normal.6adfb2bb1dd65aa73a6c.woff2",
+    "static/media/sora-all-400-normal.woff": "/static/media/sora-all-400-normal.4e0eb869ce00863294f7.woff",
+    "static/media/akaya-telivigala-latin-ext-400-normal.woff2": "/static/media/akaya-telivigala-latin-ext-400-normal.806924fe3d6edb5e4e59.woff2",
+    "static/media/sora-latin-400-normal.woff2": "/static/media/sora-latin-400-normal.a12f18b2fa36ee4a1216.woff2",
+    "static/media/sora-latin-ext-400-normal.woff2": "/static/media/sora-latin-ext-400-normal.256bd69d954f04ef5548.woff2",
+    "static/media/Arrow.svg": "/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
+    "index.html": "/index.html",
+    "main.565fc621.css.map": "/static/css/main.565fc621.css.map",
+    "main.849c5af3.js.map": "/static/js/main.849c5af3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565fc621.css",
+    "static/js/main.849c5af3.js"
+  ]
+}
