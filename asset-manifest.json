@@ -1,7 +1,11 @@
 {
   "files": {
     "main.css": "/static/css/main.565fc621.css",
+<<<<<<< HEAD
     "main.js": "/static/js/main.849c5af3.js",
+=======
+    "main.js": "/static/js/main.40b0313f.js",
+>>>>>>> 70176422675e11dc6187ad243af7cb51e0a0bd66
     "static/media/bighead-2.png": "/static/media/bighead-2.810b19f8560c5c1cbf2f.png",
     "static/media/bighead-4.png": "/static/media/bighead-4.996082572d94f071e7ff.png",
     "static/media/bighead-9.png": "/static/media/bighead-9.0ad057ab01fabc28aa53.png",
@@ -23,10 +27,18 @@
     "static/media/Arrow.svg": "/static/media/Arrow.94ea34e744b92c5dad541e35d3a63dab.svg",
     "index.html": "/index.html",
     "main.565fc621.css.map": "/static/css/main.565fc621.css.map",
+<<<<<<< HEAD
     "main.849c5af3.js.map": "/static/js/main.849c5af3.js.map"
   },
   "entrypoints": [
     "static/css/main.565fc621.css",
     "static/js/main.849c5af3.js"
+=======
+    "main.40b0313f.js.map": "/static/js/main.40b0313f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.565fc621.css",
+    "static/js/main.40b0313f.js"
+>>>>>>> 70176422675e11dc6187ad243af7cb51e0a0bd66
   ]
 }
